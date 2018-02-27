@@ -23,6 +23,6 @@ public class MathsClass {
 
     public static double hi(int a, int b){
        //todo return option
-       return null;
+       return 0.0;
     }
 }
